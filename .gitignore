@@ -1,0 +1,17 @@
+###  Pycharm ###
+.idea/
+
+### Mac ###
+.DS_Store
+
+### FTP'd log files ###
+*.log*
+
+### Parsed log output ###
+*.json
+
+### Python ###
+__pycache__/
+
+### Vim ###
+*.un~
